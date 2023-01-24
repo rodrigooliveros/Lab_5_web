@@ -56,8 +56,16 @@ button{
     background-color: #D9534F;
     opacity: 0.6;
 }
-.chec > p{
+.chec{
     text-decoration: line-through;
 }.itemShop{
+    font-style: italic;
+}
+
+.list{
+    margin: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
     font-style: italic;
 }
